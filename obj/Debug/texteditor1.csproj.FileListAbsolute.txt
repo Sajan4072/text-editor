@@ -1,0 +1,20 @@
+C:\Users\lenovo\source\repos\texteditor1\texteditor1\bin\Debug\texteditor1.exe.config
+C:\Users\lenovo\source\repos\texteditor1\texteditor1\bin\Debug\texteditor1.exe
+C:\Users\lenovo\source\repos\texteditor1\texteditor1\bin\Debug\texteditor1.pdb
+C:\Users\lenovo\source\repos\texteditor1\texteditor1\obj\Debug\texteditor1.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\texteditor1\texteditor1\obj\Debug\texteditor1.Form1.resources
+C:\Users\lenovo\source\repos\texteditor1\texteditor1\obj\Debug\texteditor1.Properties.Resources.resources
+C:\Users\lenovo\source\repos\texteditor1\texteditor1\obj\Debug\texteditor1.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\texteditor1\texteditor1\obj\Debug\texteditor1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\texteditor1\texteditor1\obj\Debug\texteditor1.exe
+C:\Users\lenovo\source\repos\texteditor1\texteditor1\obj\Debug\texteditor1.pdb
+C:\Users\lenovo\Desktop\kam nalagne file\TEXT-editor\texteditor1\texteditor1\bin\Debug\texteditor1.exe.config
+C:\Users\lenovo\Desktop\kam nalagne file\TEXT-editor\texteditor1\texteditor1\bin\Debug\texteditor1.exe
+C:\Users\lenovo\Desktop\kam nalagne file\TEXT-editor\texteditor1\texteditor1\bin\Debug\texteditor1.pdb
+C:\Users\lenovo\Desktop\kam nalagne file\TEXT-editor\texteditor1\texteditor1\obj\Debug\texteditor1.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\kam nalagne file\TEXT-editor\texteditor1\texteditor1\obj\Debug\texteditor1.Form1.resources
+C:\Users\lenovo\Desktop\kam nalagne file\TEXT-editor\texteditor1\texteditor1\obj\Debug\texteditor1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\kam nalagne file\TEXT-editor\texteditor1\texteditor1\obj\Debug\texteditor1.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\kam nalagne file\TEXT-editor\texteditor1\texteditor1\obj\Debug\texteditor1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\kam nalagne file\TEXT-editor\texteditor1\texteditor1\obj\Debug\texteditor1.exe
+C:\Users\lenovo\Desktop\kam nalagne file\TEXT-editor\texteditor1\texteditor1\obj\Debug\texteditor1.pdb
