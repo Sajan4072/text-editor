@@ -2,15 +2,17 @@
 A simple light weight text editor written in C#. 
 
 
-FEATURES
--loading and saving of the document.
+## FEATURES
 
--edit features such as cut,copy,paste,redo,undo and selectall.
 
--search,find and reaplace.
+.loading and saving of the document.
 
--syntax highlighting according to c#'s reserved keywords.
+.edit features such as cut,copy,paste,redo,undo and selectall.
 
--auto braces completion.
+.search,find and reaplace.
 
--fixed line wrapping at position identified.
+.syntax highlighting according to c#'s reserved keywords.
+
+.auto braces completion.
+
+.fixed line wrapping at position identified.
